@@ -1,4 +1,4 @@
-I have struggled with Adafruit and their impressive BLINKA-softwarepackage, but could not get it to work. Actually, I am not interested in all the bells and whistles,
+I have struggled with Adafruit and their impressive BLINKA-software package, but could not get it to work. Actually, I am not interested in all the bells and whistles,
 but just wanted to get my DHT11 sensor to work. And, most of all, I wanted to understand the basic evaluation program. In short, I was about to give up when I came
 across the link:
 
